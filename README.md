@@ -169,12 +169,7 @@ flowchart LR
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nerzularc&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
   <img height="170" src="https://streak-stats.demolab.com?user=Nerzularc&theme=tokyonight&hide_border=true&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nerzularc&bg_color=1a1b27&color=A78BFA&line=7C3AED&point=C084FC&area=true&hide_border=true" />
 </p>
 
 <!-- Snake eating your contribution graph — needs .github/workflows/snake.yml -->
